@@ -1,0 +1,13 @@
+{
+  "name": "dukaan",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Digital shop pages with QR codes and product photos for small vendors",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
